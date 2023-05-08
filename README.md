@@ -1,5 +1,14 @@
-![chat](https://user-images.githubusercontent.com/39454841/236774632-ac9735b0-0a74-4606-969d-9ed29fa7f04e.png)
+<p align="center">
+<img src="https://user-images.githubusercontent.com/39454841/236774632-ac9735b0-0a74-4606-969d-9ed29fa7f04e.png" width="60px" /></br>
+<b>Chat Poe</b></br>
+A Google Chrome extension that make Poe look like ChatGPT
+</p>
 
+<p align="center">
+<img src="https://user-images.githubusercontent.com/39454841/236775943-7dcde53c-00d4-4331-97e6-50ac703ef1c1.png" width="80%" />
+</p>
+
+# Dev Docs
 
 This is a [Plasmo extension](https://docs.plasmo.com/) project bootstrapped with [`plasmo init`](https://www.npmjs.com/package/plasmo).
 
