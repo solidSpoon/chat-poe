@@ -1,0 +1,27 @@
+[class^='PageWithSidebarLayout_mainSection'] {
+    max-width: 100% !important;
+    width: 100% !important;
+}
+
+[class^='ChatMessage_lastMessageFooter'], [class^='ChatMessageFeedbackButtons_feedbackButtonsContainer'] {
+    display: none !important;
+}
+
+[class^='PageWithSidebarLayout_leftSidebar'] {
+    min-width: 300px !important;
+}
+
+
+[class^='InfiniteScroll_scrollContainer'] {
+    margin-left: 200px !important;
+    margin-right: 200px !important;
+}
+
+[class^='ChatPageMainFooter_footer'] {
+    margin-left: 250px !important;
+    margin-right: 400px !important;
+}
+
+[class^='Message_botMessageBubble'] {
+    max-width: 70ch !important;
+}

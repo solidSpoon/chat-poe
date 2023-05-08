@@ -2,7 +2,7 @@
   "name": "chat-poe",
   "displayName": "Chat poe",
   "version": "0.0.1",
-  "description": "A basic Plasmo extension.",
+  "description": "A Google Chrome extension that make Poe look like ChatGPT",
   "author": "solidSpoon",
   "scripts": {
     "dev": "plasmo dev",
