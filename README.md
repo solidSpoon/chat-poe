@@ -1,3 +1,6 @@
+![chat](https://user-images.githubusercontent.com/39454841/236774632-ac9735b0-0a74-4606-969d-9ed29fa7f04e.png)
+
+
 This is a [Plasmo extension](https://docs.plasmo.com/) project bootstrapped with [`plasmo init`](https://www.npmjs.com/package/plasmo).
 
 ## Getting Started
